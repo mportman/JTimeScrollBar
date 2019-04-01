@@ -43,10 +43,8 @@ Wrap it all up in a new panel which adds some control buttons to the right.
 
 ## To build
 
-Wrap it all up in a jar.
+Wrap it all up in a jar.  Maven pom.xml should do this.
 
-I've supplied a build.gradle file, but I'm not at all expert with gradle,
-so it may not be using the best gradle techinque.
 
 
 ## Where
